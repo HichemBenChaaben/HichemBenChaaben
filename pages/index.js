@@ -15,7 +15,7 @@ export default function Home() {
           <Image
             height={160}
             width={160}
-            src="/me.jpeg"
+            src="/_.jpeg"
             alt="Hichem ben chaabene"
             className={styles.thumbnail}
           />
