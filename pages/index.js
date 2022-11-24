@@ -31,7 +31,7 @@ export default function Home() {
           </p>
           <div>
             <div className={styles.social}>
-              <p>📍 Amsterdam | 💬 Polyglot | 🥊 Kickboxer</p>
+              <p>📍 Amsterdam</p>
             </div>
           </div>
           <code>javascript | css | react | typescript | nextjs</code>
