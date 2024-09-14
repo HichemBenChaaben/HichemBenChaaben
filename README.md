@@ -1,5 +1,5 @@
 hi 👋 I'm Hichem, 
-i'm based in Amsterdam 🇳🇱 I build applications with javascript and i'm a typscscript wizard
+i'm based in Amsterdam 🇳🇱 I build applications with javascript
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,sass,react,vue)](https://skillicons.dev)
 
