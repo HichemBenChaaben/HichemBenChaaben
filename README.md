@@ -1,6 +1,7 @@
 # hi 👋 I'm Hichem, 
 i'm based in Amsterdam 🇳🇱 I build applications with javascript\
 
+Author of typescript quizz
 [Typescript Quizz](https://hichembenchaaben.github.io/typescript-quizz/)
 
 <br>
