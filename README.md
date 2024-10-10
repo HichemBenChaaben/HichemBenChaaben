@@ -3,9 +3,7 @@ i'm based in Amsterdam 🇳🇱 I build applications with javascript\
 
 Author of 
 [Typescript Quizz](https://hichembenchaaben.github.io/typescript-quizz/)
-
 <br>
-
 ## Skilled in 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,sass,react,vue)](https://skillicons.dev)
