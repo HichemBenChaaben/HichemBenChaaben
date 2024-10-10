@@ -1,4 +1,4 @@
-# hi 👋 I'm Hichem, 
+# hi 👋 I'm Hichem
 i'm based in Amsterdam 🇳🇱 I build applications with javascript\
 
 Author of 
