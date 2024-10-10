@@ -5,6 +5,10 @@ i'm based in Amsterdam 🇳🇱 I build applications with javascript\
 
 <br>
 
+## Skilled in 
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,sass,react,vue)](https://skillicons.dev)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hbenc/) 
 
@@ -18,7 +22,5 @@ i'm based in Amsterdam 🇳🇱 I build applications with javascript\
 ---
 [![](https://visitcount.itsvg.in/api?id=HichemBenChaaben&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,sass,react,vue)](https://skillicons.dev)
 
 <a href="https://app.daily.dev/hbc"><img src="https://api.daily.dev/devcards/0c9bba84f1344e60a2b33e1b2b24d000.png?r=z0g" width="400" alt="Hichem ben chaabene's Dev Card"/></a>
